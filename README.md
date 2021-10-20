@@ -2,7 +2,7 @@
 
 - 📚 Sou estudante de TI
 - 🌱 Estou aprendendo sobre: HTML, CSS e  JAVASCRIPT
-- 😄 Pronouns: ela/ dela
+- 😄 Pronomes: ela/ dela
 
 
 <div align="center">
